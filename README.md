@@ -14,12 +14,12 @@ Download the latest eHack from the [Releases](https://github.com/secgron/eHack/r
 
 Wget
 ```bash
-$ wget https://cdn.teguh.co/tools/eHack.php
+$ wget https://cdn.teguh.co/tool/eHack.php
 ```
 
 cURL
 ```bash
-$ curl -O https://cdn.teguh.co/tools/eHack.php
+$ curl -O https://cdn.teguh.co/tool/eHack.php
 ```
 
 ## Setup
