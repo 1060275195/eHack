@@ -5,7 +5,7 @@ Lightweight PHP Backdoor to execute shell commands
 # Features
 
 - Protected with Password
-- Send log email after successfull login
+- Send log email after successful login
 - Lightweight Webshell
 
 ## Download
