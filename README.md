@@ -10,17 +10,7 @@ Lightweight PHP Backdoor to execute shell commands
 
 ## Download
 
-Download the latest eHack from the [Releases](https://github.com/secgron/eHack/releases) page or just run this command
-
-Wget
-```bash
-$ wget https://cdn.teguh.co/tool/eHack.php
-```
-
-cURL
-```bash
-$ curl -O https://cdn.teguh.co/tool/eHack.php
-```
+Download the latest eHack from the [Releases](https://github.com/secgron/eHack/releases) page 
 
 ## Setup
 
